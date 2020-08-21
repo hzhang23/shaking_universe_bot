@@ -1,1 +1,2 @@
-# shaking_universe_bot
+# weibo_bot share weibo 
+run with crontab and set frequency.
